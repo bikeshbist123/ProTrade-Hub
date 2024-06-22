@@ -44,7 +44,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/SamehSerag/Examination-System.git
+  git clone https://github.com/bikeshbist123/ProTrade-Hub.git
 ```
 
 Restore database
